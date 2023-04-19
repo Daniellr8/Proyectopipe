@@ -1,0 +1,12 @@
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.dll
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_AccesoDatos\obj\Debug\Capa_AccesoDatos.pdb

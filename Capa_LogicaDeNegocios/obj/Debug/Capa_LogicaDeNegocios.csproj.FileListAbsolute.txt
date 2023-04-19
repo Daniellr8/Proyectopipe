@@ -1,0 +1,18 @@
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CopyComplete
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\afzr2\Documents\Pipe\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_LogicaDeNegocios.pdb
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.dll
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\bin\Debug\Capa_AccesoDatos.pdb
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.csproj.CopyComplete
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.dll
+C:\Users\daniellr\Documents\PRACTICA_AEAE 2_Andres_Zapata\FACTURACION_CAPAS_DISENO_MODERNO\Capa_LogicaDeNegocios\obj\Debug\Capa_LogicaDeNegocios.pdb
